@@ -13,8 +13,8 @@ Reading: [Simple Statistical Gradient-Following Algorithms for Connectionist Rei
 
 ### Deep Q-Learning
 
-Presented by [Korina Zafeiroudi](https://github.com/kzafeiroudi).
+Presented by [Kyriaki Zafeiroudi](https://github.com/kzafeiroudi).
 
 Reading: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) by Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra and Martin A. Riedmiller.
 
-Find the presentation [here](Presentations/DQN Presentation 20181019.pdf).
+Find the presentation [here](Presentations/DQN%20Presentation%2020181019.pdf).

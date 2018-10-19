@@ -5,13 +5,13 @@ _Last updated: 10/19/2018_
 
 ## Meetings
 
-### Reinforcement Learning for Sequence Learning in Neural Models
+* ### Reinforcement Learning for Sequence Learning in Neural Models
 
 Presented by [Yanjun Gao](https://github.com/serenayj).
 
 Reading: [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) by Ronald J. Williams.
 
-### Deep Q-Learning
+* ### Deep Q-Learning
 
 Presented by [Kyriaki Zafeiroudi](https://github.com/kzafeiroudi).
 

@@ -1,7 +1,7 @@
 # Reinforcement Learning Reading Group (Fall '18)
 Our weekly reading group where we discuss Reinforcement Learning approaches in the domain of Natural Language Processing.
 
-_Last updated: 10/19/2018_
+_Last updated: 10/20/2018_
 
 ## Meetings
 
@@ -22,6 +22,11 @@ _Last updated: 10/19/2018_
   Reading: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) by Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin A. Riedmiller. [3]
 
   Find the presentation [here](Presentations/DQN%20Presentation%2020181019.pdf).
+  
+***
+## More Reinforcement Learning Recourses
+
+* [Awesome RL](https://github.com/aikorea/awesome-rl)
 
 ***
 ## References

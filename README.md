@@ -27,10 +27,10 @@ _Last updated: 10/27/2018_
 
   Presented by Saptarashmi Bandyopadhyay.
 
-  Reading: Reinforcement Learning An Introduction by Richard S. Sutton and Andrew G. Barto [4] Chapters	 1, 2 and 3
-           [A Course in Machine Learning] (ciml.info/) by Haul Daumé III [5]  Chapter 18
-           [Human-level control through deep reinforcement learning] (https://www.nature.com/articles/nature14236) by Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis [6]
-               Atari 2600 game console in the paper [The arcade learning environment: An evaluation platform for general agents] (https://arxiv.org/abs/1207.4708) by Marc G. Bellemare, Yavar Naddaf, Joel Veness amd Michael Bowling [7]
+  Reading: Reinforcement Learning An Introduction by Richard S. Sutton and Andrew G. Barto [4] Chapters	 1, 2 and 3                    
+           A Course in Machine Learning by Haul Daumé III [5]  Chapter 18                                                         
+           Human-level control through deep reinforcement learning by Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis [6]
+           Atari 2600 game console in the paper The arcade learning environment: An evaluation platform for general agents by Marc G. Bellemare, Yavar Naddaf, Joel Veness amd Michael Bowling [7]
            
   Find the presentation [here](Presentations/RL_10_26_Slides.pdf).
 

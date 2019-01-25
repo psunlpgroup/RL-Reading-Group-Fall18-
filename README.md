@@ -1,7 +1,7 @@
 # Reinforcement Learning Reading Group (Fall '18)
 Our weekly reading group where we discuss Reinforcement Learning approaches in the domain of Natural Language Processing.
 
-_Last updated: 10/27/2018_
+_Last updated: 01/25/2019_
 
 ## Meetings
 
@@ -34,11 +34,21 @@ _Last updated: 10/27/2018_
            
   Find the presentation [here](Presentations/RL_10_26_Slides.pdf).
 
+* ### (D)DPG:(Deep) Deterministic Policy Gradients Network for Continuous Action Space
   
+  Presented by [Yanjun Gao](https://github.com/serenayj).
+  
+  Readings: Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014. 
+            Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).
+  
+  Find the presentation [here](Presentations/DDPG-Jan24.pdf).
+
 ***
 ## More Reinforcement Learning Recourses
 
 * [Awesome RL](https://github.com/aikorea/awesome-rl)
+* [Class Resources: David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Class Resources: UC Berkeley CS 294-112 Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ***
 ## References

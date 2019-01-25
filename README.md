@@ -38,9 +38,8 @@ _Last updated: 01/25/2019_
   
   Presented by [Yanjun Gao](https://github.com/serenayj).
   
-  Readings: Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014. 
-  
-            Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).
+  Readings: Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.  
+    Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).  
   
   Find the presentation [here](Presentations/DDPG-Jan24.pdf).
 

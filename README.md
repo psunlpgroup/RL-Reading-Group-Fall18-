@@ -49,7 +49,7 @@ _Last updated: 01/25/2019_
 * [Awesome RL](https://github.com/aikorea/awesome-rl)
 * [Class Resources: David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Class Resources: UC Berkeley CS 294-112 Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/)
-* [Simple Reinforcement Learning with Tensorflow Part](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0/)
+* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0/)
 
 ***
 ## References

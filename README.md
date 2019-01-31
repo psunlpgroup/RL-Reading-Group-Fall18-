@@ -42,6 +42,9 @@ _Last updated: 01/25/2019_
     Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).  
   
   Find the presentation [here](Presentations/DDPG-Jan24.pdf).
+* ### POMDP-based dialogue manager with Reinforcment learning
+  Will be presented by Maryam.
+  Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017) 
 
 ***
 ## More Reinforcement Learning Recourses

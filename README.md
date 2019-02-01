@@ -42,6 +42,7 @@ _Last updated: 01/25/2019_
     Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).  
   
   Find the presentation [here](Presentations/DDPG-Jan24.pdf).
+
   
 * ### DRL in Parameterized Action Space
   
@@ -51,12 +52,27 @@ _Last updated: 01/25/2019_
   
   Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
 
+ 
+* ### DRL in Parameterized Action Space 
+  
+  Presented by [Yanjun Gao](https://github.com/serenayj).
+  
+  Readings: Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016. 
+  
+  Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
+  
+* ### POMDP-based dialogue manager with Reinforcment learning
+  Will be presented by Maryam.
+  Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017) 
+
+
 ***
 ## More Reinforcement Learning Recourses
 
 * [Awesome RL](https://github.com/aikorea/awesome-rl)
 * [Class Resources: David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Class Resources: UC Berkeley CS 294-112 Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0/)
 
 ***
 ## References

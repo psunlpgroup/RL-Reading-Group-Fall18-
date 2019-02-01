@@ -42,6 +42,14 @@ _Last updated: 01/25/2019_
     Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).  
   
   Find the presentation [here](Presentations/DDPG-Jan24.pdf).
+  
+* ### DRL in Parameterized Action Space
+  
+  Presented by [Yanjun Gao](https://github.com/serenayj).
+  
+  Readings: Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016.    
+  
+  Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
 
 ***
 ## More Reinforcement Learning Recourses
@@ -61,3 +69,4 @@ _Last updated: 01/25/2019_
 7.  The arcade learning environment: An evaluation platform for general agents by Marc G. Bellemare, Yavar Naddaf, Joel Veness, Michael Bowling, Journal of Artificial Intelligence Research 47, pages 253-279, DOI: 10.1613/jair.3912 arXiv:1207.4708 
 8. Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.
 9. Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).
+10. Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016. 

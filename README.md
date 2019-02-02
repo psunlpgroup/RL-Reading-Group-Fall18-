@@ -52,14 +52,6 @@ _Last updated: 01/25/2019_
   
   Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
 
- 
-* ### DRL in Parameterized Action Space 
-  
-  Presented by [Yanjun Gao](https://github.com/serenayj).
-  
-  Readings: Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016. 
-  
-  Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
   
 * ### POMDP-based dialogue manager with Reinforcment learning
   Will be presented by Maryam.

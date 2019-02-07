@@ -51,8 +51,8 @@ _Last updated: 01/25/2019_
   
   Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
   
-* ### POMDP-based dialogue manager with Reinforcment learning
-  Will be presented by Maryam.
+* ### Gaussian process Reinforcment learning for Dialog Management. 
+  Will be presented by [Maryam Zare](https://github.com/mry94).
   Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017) 
 
 ***

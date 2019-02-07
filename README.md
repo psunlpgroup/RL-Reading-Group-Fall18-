@@ -60,7 +60,7 @@ _Last updated: 01/25/2019_
 
 ***
 ## More Reinforcement Learning Recourses
-
+* [A great Video on GP and ML by Richard Turner](https://www.youtube.com/watch?v=92-98SYOdlY)
 * [Awesome RL](https://github.com/aikorea/awesome-rl)
 * [Class Resources: David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Class Resources: UC Berkeley CS 294-112 Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/)

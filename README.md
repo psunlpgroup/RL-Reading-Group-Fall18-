@@ -69,9 +69,10 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   Find the presentation [here](/Presentations/Gaussian%20Process%20Reinforcement%20Learning.pdf)
   
 * ### Double Q-Learning
- To be presented by Saptarashmi Bandyopadhyay
+ 
+  To be presented by Saptarashmi Bandyopadhyay
 
- Readings:  Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
+  Readings:  Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
 
 ***
 ## More Reinforcement Learning Recourses

@@ -1,7 +1,7 @@
 # Reinforcement Learning Reading Group (Fall-Spring '18,'19)
 Our weekly reading group where we discuss Reinforcement Learning approaches in the domain of Natural Language Processing.
 
-_Last updated: 01/25/2019_
+_Last updated: 02/08/2019_
 
 ## Meetings
 
@@ -33,7 +33,17 @@ _Last updated: 01/25/2019_
             Atari 2600 game console in the paper The arcade learning environment: An evaluation platform for general agents by Marc G. Bellemare, Yavar Naddaf, Joel Veness amd Michael Bowling [7]
            
   Find the presentation [here](Presentations/RL_10_26_Slides.pdf).
+  
+* ### Overview of Deep Reinforcement Learning in a Natural Language Action Space
 
+  Presented by Saptarashmi Bandyopadhyay.
+  
+  Readings: Deep Reinforcement Learning with a Natural Language Action Space by Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng and Mari Ostendorf, University of Washington, Seattle, Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, pp. 1621–1630, Berlin, Germany, August 7-12, 2016 [10]
+            Language Understanding for Text-based Games using Deep Reinforcement Learning by Karthik Narasimhan, Tejas D Kulkarni and Regina Barzilay, Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, pp 1–11,
+Lisbon, Portugal, 17-21 September 2015 [11]
+  
+  Find the presentation [here](Presentations/RL_11_16_Slides.pdf).
+  
 * ### (D)DPG:(Deep) Deterministic Policy Gradients Network for Continuous Action Space
   
   Presented by [Yanjun Gao](https://github.com/serenayj).
@@ -57,6 +67,11 @@ _Last updated: 01/25/2019_
   Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017). 
   
   Find the presentation [here](/Presentations/Gaussian%20Process%20Reinforcement%20Learning.pdf)
+  
+* ### Double Q-Learning
+To be presented by Saptarashmi Bandyopadhyay
+
+Readings:  Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
 
 ***
 ## More Reinforcement Learning Recourses
@@ -77,3 +92,8 @@ _Last updated: 01/25/2019_
 7.  The arcade learning environment: An evaluation platform for general agents by Marc G. Bellemare, Yavar Naddaf, Joel Veness, Michael Bowling, Journal of Artificial Intelligence Research 47, pages 253-279, DOI: 10.1613/jair.3912 arXiv:1207.4708 
 8. Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.
 9. Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).
+10. Deep Reinforcement Learning with a Natural Language Action Space by Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng and Mari Ostendorf, University of Washington, Seattle, Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, pp. 1621–1630, Berlin, Germany, August 7-12, 2016.
+11. Language Understanding for Text-based Games using Deep Reinforcement Learning by Karthik Narasimhan, Tejas D Kulkarni
+and Regina Barzilay, Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, pp 1–11,
+Lisbon, Portugal, 17-21 September 2015
+12. Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016.

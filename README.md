@@ -72,7 +72,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
  
   To be presented by Saptarashmi Bandyopadhyay
 
-  Readings:  * [Deep Reinforcement Learning with Double Q-Learning] (https://arxiv.org/abs/1509.06461)  by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
+  Readings:  Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
 
 ***
 ## More Reinforcement Learning Recourses

@@ -82,7 +82,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
 
    To be presented by [Maryam Zare](https://github.com/mry94).
   
-   Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf)IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
+   Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
   
    Find the presentation [here](/Presentations/Gaussian%20Process%20Reinforcement%20Learning.pdf)
 

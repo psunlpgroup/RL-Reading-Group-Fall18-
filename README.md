@@ -1,7 +1,7 @@
 # Reinforcement Learning Reading Group (Fall-Spring '18,'19)
 Our weekly reading group where we discuss Reinforcement Learning approaches in the domain of Natural Language Processing.
 
-_Last updated: 02/08/2019_
+_Last updated: 02/28/2019_
 
 ## Meetings
 

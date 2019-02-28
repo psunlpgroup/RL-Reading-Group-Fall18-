@@ -84,7 +84,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
    Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
   
-   Find the presentation [here](/Presentations/GP RL in More Detail.pdf)
+   Find the presentation [here](/Presentations/GP%20RL%20in%20More%20Detail.pdf)
 
 ***
 ## More Reinforcement Learning Recourses

@@ -78,6 +78,12 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
   Find the presentation [here](Presentations/RL_2_14_Slides.pdf).
 
+* ### Gaussian process Reinforcment learning for Dialog Management in More Detail. 
+  Will be presented by [Maryam Zare](https://github.com/mry94).
+  
+  Readings: Gašić, Milica, and Steve Young. [Gaussian processes for pomdp-based dialogue manager optimization." IEEE/ACM](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf)IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
+  
+  Find the presentation [here](/Presentations/Gaussian%20Process%20Reinforcement%20Learning.pdf)
 
 ***
 ## More Reinforcement Learning Recourses

@@ -64,7 +64,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
 
   
 * ### Gaussian process Reinforcment learning for Dialog Management. 
-  Will be presented by [Maryam Zare](https://github.com/mry94).
+  Presented by [Maryam Zare](https://github.com/mry94).
   
   Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017). 
   
@@ -79,7 +79,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   Find the presentation [here](Presentations/RL_2_14_Slides.pdf).
 
 * ### Gaussian process Reinforcment learning for Dialog Management in More Detail. 
-  Will be presented by [Maryam Zare](https://github.com/mry94).
+ To be presented by [Maryam Zare](https://github.com/mry94).
   
   Readings: Gašić, Milica, and Steve Young. [Gaussian processes for pomdp-based dialogue manager optimization." IEEE/ACM](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf)IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
   

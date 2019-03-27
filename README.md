@@ -3,7 +3,7 @@ Our weekly reading group where we discuss Reinforcement Learning approaches in t
 
 Please cite this github repository if you are using our slides. 
 
-_Last updated: 02/28/2019_
+_Last updated: 03/27/2019_
 
 ## Meetings
 
@@ -92,7 +92,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
  
   To be presented by Saptarashmi Bandyopadhyay
 
-  Readings:  [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48. [12].
+  Readings:  [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48. [14].
  
 ***
 ## More Reinforcement Learning Recourses

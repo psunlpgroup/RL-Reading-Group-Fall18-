@@ -90,9 +90,11 @@ Lisbon, Portugal, 17-21 September 2015 [11]
    
 * ### Dueling Network Architectures for Deep Reinforcement Learning
  
-  To be presented by Saptarashmi Bandyopadhyay
+  Presented by Saptarashmi Bandyopadhyay
 
   Readings:  [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48. [14].
+  
+  Find the presentation [here](Presentations/RL_3_28_Slides.pdf).
  
 ***
 ## More Reinforcement Learning Recourses

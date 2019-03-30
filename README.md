@@ -95,6 +95,17 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   Readings:  [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48. [14].
   
   Find the presentation [here](Presentations/RL_3_28_Slides.pdf).
+  
+* ### (Asynchronous) Actor Advantage Critics Reinforcement Learning: A2C and A3C
+
+  Presented by [Yanjun Gao](https://github.com/serenayj).
+  
+  Readings: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih, Volodymyr, et al. International conference on machine learning. 2016. [15]
+  
+  Find the presentation [here](Presentations/a3c.pdf)
+  
+  
+
  
 ***
 ## More Reinforcement Learning Recourses
@@ -122,3 +133,4 @@ and Regina Barzilay, Proceedings of the 2015 Conference on Empirical Methods in 
 Lisbon, Portugal, 17-21 September 2015
 13. Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016.
 14. Dueling Network Architectures for Deep Reinforcement Learning  by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48.
+15. Mnih, Volodymyr, et al. "Asynchronous methods for deep reinforcement learning." International conference on machine learning. 2016.

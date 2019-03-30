@@ -3,7 +3,7 @@ Our weekly reading group where we discuss Reinforcement Learning approaches in t
 
 Please cite this github repository if you are using our slides. 
 
-_Last updated: 02/28/2019_
+_Last updated: 03/27/2019_
 
 ## Meetings
 
@@ -74,9 +74,9 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
 * ### Double Q-Learning
  
-  To be presented by Saptarashmi Bandyopadhyay
+  Presented by Saptarashmi Bandyopadhyay
 
-  Readings:  [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf) by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [12].
+  Readings:  [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf) by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings    of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016 [13].
   
   Find the presentation [here](Presentations/RL_2_14_Slides.pdf).
 
@@ -87,7 +87,15 @@ Lisbon, Portugal, 17-21 September 2015 [11]
    Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
   
    Find the presentation [here](/Presentations/GP%20RL%20in%20More%20Detail.pdf)
+   
+* ### Dueling Network Architectures for Deep Reinforcement Learning
+ 
+  Presented by Saptarashmi Bandyopadhyay
 
+  Readings:  [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48. [14].
+  
+  Find the presentation [here](Presentations/RL_3_28_Slides.pdf).
+ 
 ***
 ## More Reinforcement Learning Recourses
 * [A great Video on GP and ML by Richard Turner](https://www.youtube.com/watch?v=92-98SYOdlY)
@@ -113,4 +121,4 @@ Lisbon, Portugal, 17-21 September 2015 [11]
 and Regina Barzilay, Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, pp 1–11,
 Lisbon, Portugal, 17-21 September 2015
 13. Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016.
-
+14. Dueling Network Architectures for Deep Reinforcement Learning  by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48.

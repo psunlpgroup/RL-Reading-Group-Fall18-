@@ -102,6 +102,8 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
   Readings: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih, Volodymyr, et al. International conference on machine learning. 2016. [15]
   
+  Find the presentation [here](Presentations/a3c.pdf)
+  
   
 
  

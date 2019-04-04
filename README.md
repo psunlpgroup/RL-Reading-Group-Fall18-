@@ -3,7 +3,7 @@ Our weekly reading group where we discuss Reinforcement Learning approaches in t
 
 Please cite this github repository if you are using our slides. 
 
-_Last updated: 03/27/2019_
+_Last updated: 04/04/2019_
 
 ## Meetings
 
@@ -103,6 +103,12 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   Readings: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih, Volodymyr, et al. International conference on machine learning. 2016. [15]
   
   Find the presentation [here](Presentations/a3c.pdf)
+
+* ### Toward Diverse Text Generation with Inverse Reinforcement Learning 
+
+  Presented by [Yanjun Gao](https://github.com/serenayj).
+  
+  Readings: [Toward Diverse Text Generation with Inverse Reinforcement Learning](https://www.ijcai.org/proceedings/2018/0606.pdf) Shi, Zhan, et al. Proceedings of the 27th International Joint Conference on Artificial Intelligence. AAAI Press, 2018.[16]
   
   
 
@@ -134,3 +140,4 @@ Lisbon, Portugal, 17-21 September 2015
 13. Deep Reinforcement Learning with Double Q-Learning by Hado van Hasselt , Arthur Guez, and David Silver, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16),2016.
 14. Dueling Network Architectures for Deep Reinforcement Learning  by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48.
 15. Mnih, Volodymyr, et al. "Asynchronous methods for deep reinforcement learning." International conference on machine learning. 2016.
+16. Shi, Zhan, et al. "Toward diverse text generation with inverse reinforcement learning." Proceedings of the 27th International Joint Conference on Artificial Intelligence. AAAI Press, 2018.

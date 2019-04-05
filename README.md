@@ -50,8 +50,8 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
   Presented by [Yanjun Gao](https://github.com/serenayj).
   
-  Readings: Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.  
-    Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).  
+  Readings: Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.  [19]
+    Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015). [20]
   
   Find the presentation [here](Presentations/DDPG-Jan24.pdf).
 
@@ -60,7 +60,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   
   Presented by [Yanjun Gao](https://github.com/serenayj).
   
-  Readings: Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016.    
+  Readings: Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016. [21]    
   
   Find the presentation [here](Presentations/ParameterizedActionSpace-Jan31.pdf).
 
@@ -68,7 +68,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
 * ### Gaussian process Reinforcment learning for Dialog Management. 
   Presented by [Maryam Zare](https://github.com/mry94).
   
-  Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017). 
+  Readings: M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning](http://mi.eng.cam.ac.uk/~sjy/papers/gmrs17.pdf)" Computer Speech and Language. (2017). [18]
   
   Find the presentation [here](/Presentations/Gaussian%20Process%20Reinforcement%20Learning.pdf)
   
@@ -84,7 +84,7 @@ Lisbon, Portugal, 17-21 September 2015 [11]
 
    Presented by [Maryam Zare](https://github.com/mry94).
   
-   Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) 
+   Readings:  Gašić, Milica, and Steve Young. ["Gaussian processes for pomdp-based dialogue manager optimization."](http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014) [17] 
   
    Find the presentation [here](/Presentations/GP%20RL%20in%20More%20Detail.pdf)
    
@@ -109,6 +109,8 @@ Lisbon, Portugal, 17-21 September 2015 [11]
   Presented by [Yanjun Gao](https://github.com/serenayj).
   
   Readings: [Toward Diverse Text Generation with Inverse Reinforcement Learning](https://www.ijcai.org/proceedings/2018/0606.pdf) Shi, Zhan, et al. Proceedings of the 27th International Joint Conference on Artificial Intelligence. AAAI Press, 2018.[16]
+  
+  Find the presentation [here](Presentations/IRL-0404.pdf).
   
   
 
@@ -141,3 +143,8 @@ Lisbon, Portugal, 17-21 September 2015
 14. Dueling Network Architectures for Deep Reinforcement Learning  by Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, and Nando de Freitas, Proceedings of the 33rd International Conference on Machine Learning New York, NY, USA, 2016. JMLR: W&CP volume 48.
 15. Mnih, Volodymyr, et al. "Asynchronous methods for deep reinforcement learning." International conference on machine learning. 2016.
 16. Shi, Zhan, et al. "Toward diverse text generation with inverse reinforcement learning." Proceedings of the 27th International Joint Conference on Artificial Intelligence. AAAI Press, 2018.
+17. Gašić, Milica, and Steve Young. (http://mi.eng.cam.ac.uk/~sjy/papers/gayo14.pdf) IEEE/ACM Transactions on Audio, Speech, and Language Processing(2014)
+18.M. Gasic, N. Mrksic, L. Rojas-Barahona, P.-H. Su, S. Ultes, D. Vandyke, T.-H. Wen and S. Young . "[Dialogue manager domain adaptation using Gaussian process reinforcement learning]" Computer Speech and Language. (2017).
+19. Silver, David, et al. "Deterministic policy gradient algorithms." ICML. 2014.
+20. Lillicrap, Timothy P., et al. "Continuous Control with Deep Reinforcement Learning."  (2015).
+21. Hausknecht, Matthew, and Peter Stone. "Deep reinforcement learning in parameterized action space." ICLR 2016.
